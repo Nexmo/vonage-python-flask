@@ -1,0 +1,5 @@
+.vscode
+Flask_Vonage.egg-info/
+Pipfile
+Pipfile.lock
+pyproject.toml
